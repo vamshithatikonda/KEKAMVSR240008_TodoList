@@ -1,9 +1,7 @@
 A TodoList app to demonstrate the key features are title of the task ,description of  the task,due date,category,task status and task saved to the local storage.
 In this Mobile Appplication Devlopment task was completely done using Kotlin. Where people can add up there day to day to-do task and get notified. App contains a simple user friendly interface and colour differentiation for easy identification.
 
-
-
-Instructions to set up and run the application:
+## Instructions to set up and run the application:
 
 1.Open the GitHub Repository link.
 
@@ -25,7 +23,7 @@ Instructions to set up and run the application:
 
 
 
-Here some of the images of the application:
+## Here some of the images of the application:
 
 
 ![todo_icon](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/947bbd9c-aed1-44ed-8e94-ab11184ee476)
