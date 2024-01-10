@@ -5,11 +5,16 @@ In this Mobile Appplication Devlopment task was completely done using Kotlin. Wh
 Instructions to set up and run the application:
 
 1.Open the GitHub Repository link.
+
 2.On the right side of the screen click on the code and download the Zip file of the application.
+
 3.After downloading extract the file to local storage.
+
 4.Now open the Android Studio in your system and click on file which is onnthe top left of the screen.
+
 5.Now click on open a pop will appear select the file which you have extracted.
-6.After selecting file wait until all the required gradle files to download.
+
+6.After selecting file wait until all the required gradle files to download.<\n>
 7.Make sure version of Android Studio and  all the Gradle files sync properly(Without proper gradle files apllication won't run).
 8.Select proper Emulator or connect a mobile phone using USB cable to view the application and click on Run.
 9.Applicaton will be viewd on Emulator or mobile phone.
