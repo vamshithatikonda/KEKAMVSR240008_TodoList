@@ -4,6 +4,7 @@ In this Mobile Appplication Devlopment task was completely done using Kotlin. Wh
 
 
 Instructions to set up and run the application:
+
 1.Open the GitHub Repository link.
 
 2.On the right side of the screen click on the code and download the Zip file of the application.
