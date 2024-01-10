@@ -28,7 +28,8 @@ Instructions to set up and run the application:
 Here some of the images of the application:
 
 
-![todo_icon](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/947bbd9c-aed1-44ed-8e94-ab11184ee476)![todo_homepage](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/a1dd0679-cd2e-46d6-a99f-17b8f1d0f5e0)
+![todo_icon](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/947bbd9c-aed1-44ed-8e94-ab11184ee476)
+![todo_homepage](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/a1dd0679-cd2e-46d6-a99f-17b8f1d0f5e0)
 ![todo_addtaskpage](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/ce85bb60-141b-49f8-b94d-a8c0b00b9174)
 ![todo_addtaskpage2](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/b48614fc-454e-4590-9841-ac2fbaf7d798)
 ![todo_addtaskpage3](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/407cbb90-a74e-420b-ad6a-4a929bbf6347)
