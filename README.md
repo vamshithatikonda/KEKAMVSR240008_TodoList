@@ -2,6 +2,7 @@ A TodoList app to demonstrate the key features are title of the task ,descriptio
 In this Mobile Appplication Devlopment task was completely done using Kotlin. Where people can add up there day to day to-do task and get notified. App contains a simple user friendly interface and colour differentiation for easy identification.
 
 
+
 Instructions to set up and run the application:
 
 1.Open the GitHub Repository link.
@@ -14,17 +15,20 @@ Instructions to set up and run the application:
 
 5.Now click on open a pop will appear select the file which you have extracted.
 
-6.After selecting file wait until all the required gradle files to download.<\n>
+6.After selecting file wait until all the required gradle files to download.
+
 7.Make sure version of Android Studio and  all the Gradle files sync properly(Without proper gradle files apllication won't run).
+
 8.Select proper Emulator or connect a mobile phone using USB cable to view the application and click on Run.
+
 9.Applicaton will be viewd on Emulator or mobile phone.
+
 
 
 Here some of the images of the application:
 
 
-![todo_icon](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/947bbd9c-aed1-44ed-8e94-ab11184ee476)
-![todo_homepage](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/a1dd0679-cd2e-46d6-a99f-17b8f1d0f5e0)
+![todo_icon](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/947bbd9c-aed1-44ed-8e94-ab11184ee476)![todo_homepage](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/a1dd0679-cd2e-46d6-a99f-17b8f1d0f5e0)
 ![todo_addtaskpage](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/ce85bb60-141b-49f8-b94d-a8c0b00b9174)
 ![todo_addtaskpage2](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/b48614fc-454e-4590-9841-ac2fbaf7d798)
 ![todo_addtaskpage3](https://github.com/vamshithatikonda/KEKAMVSR240008_TodoList/assets/134948743/407cbb90-a74e-420b-ad6a-4a929bbf6347)
